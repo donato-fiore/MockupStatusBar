@@ -1,0 +1,9 @@
+Package: com.fiore.msb
+Name: MockupStatusBar
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Simple tweak that sets time to 9:41, battery to 100%, carrier to "Carrier", wifi and full bars.
+Maintainer: fiore
+Author: fiore
+Section: Tweaks
+Depends: mobilesubstrate
